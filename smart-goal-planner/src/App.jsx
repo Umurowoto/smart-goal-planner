@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Add from "./Add";
-import List from "./List";
+import Add from "./components/Add-goal";
+import List from "./components/List";
 import "./App.css";
 
 function App() {

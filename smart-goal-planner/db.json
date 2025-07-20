@@ -1,3 +1,16 @@
 {
-    "Goals": []
+  "goals": [
+    {
+      "id": 1753037054352,
+      "name": "buy a car",
+      "description": "any",
+      "savedAmount": 0
+    },
+    {
+      "id": 1753037144936,
+      "name": "Buying a car",
+      "description": "Rolls-Royce Ghost",
+      "savedAmount": 0
+    }
+  ]
 }
