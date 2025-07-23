@@ -11,6 +11,12 @@
       "name": "Buying a car",
       "description": "Rolls-Royce Ghost",
       "savedAmount": 0
+    },
+    {
+      "id": 1753038771334,
+      "name": "Finish React",
+      "description": "by the end of this week",
+      "savedAmount": 0
     }
   ]
 }
