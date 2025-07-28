@@ -1,22 +1,14 @@
 {
   "goals": [
     {
-      "id": 1753037054352,
-      "name": "buy a car",
-      "description": "any",
-      "savedAmount": 0
-    },
-    {
-      "id": 1753037144936,
-      "name": "Buying a car",
-      "description": "Rolls-Royce Ghost",
-      "savedAmount": 0
-    },
-    {
-      "id": 1753038771334,
-      "name": "Finish React",
-      "description": "by the end of this week",
-      "savedAmount": 0
+      "id": "1",
+      "name": "Travel Fund - Japan",
+      "description": "Trip to Japan",
+      "targetAmount": 5000,
+      "savedAmount": 3200,
+      "category": "Travel",
+      "deadline": "2025-12-31",
+      "createdAt": "2024-01-15"
     }
   ]
 }
